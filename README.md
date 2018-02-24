@@ -1,0 +1,2 @@
+# AtrivuAI
+Synthetic Intelligence stuff
